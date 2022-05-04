@@ -1,0 +1,7 @@
+2-7;Andres;Perez;2.38;1
+2-9;Mario;Lopez;2.0;1
+3-5;Ana;Urbina;10.0;2
+10-k;Maria;Boric;10.2;1
+11-0;Jose;Irarrazaval;0;3
+18-2;Isabel;Pantoja;6.0;4
+30-6;Pedro;Perez;0;2
