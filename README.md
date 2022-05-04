@@ -29,7 +29,7 @@ rut,monto$
 
 2) Se pide leer desde la fuente de datos, para retornar un nuevo archivo llamado output.txt, el cual cada fila correspondera a cada cliente y las columnas ha de tener la siguiente estructura. 
 
-> **rut**|**nombre completo**|**cantidad_de_ufs**|**cantidad_de_ufs * ARGV[0]**|**nombre_del_plan**|**bono_a_cobrarrut**|**nombre completo**| **cantidad_de_ufs**|**cantidad_de_ufs * ARGV[0]**|**nombre_del_plan**|**bono_a_cobrar**
+> **rut**|**nombre completo**|**cantidad_de_ufs**|**cantidad_de_ufs * ARGV[0]**|**nombre_del_plan**|**bono_a_cobrarrut**|**nombre completo**|
 
 
 Editor On Line MARKDOWN : https://markdown-editor.github.io/
