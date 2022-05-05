@@ -1,0 +1,77 @@
+Salida de informacion -> output
+
+puts
+print 
+
+Entrada de Informacion -> Input
+gets
+ARGV -> ARGUMENTOS -> array
+
+intrucciones de flujo
+
+IF condition
+end
+
+if 
+else 
+end
+
+if 
+elsif
+end
+
+if 
+elsif
+elsif
+end
+
+instruccion if condicion ->if in line
+condicion ? instruccion_true : instruccion_false
+
+unless condicion -> ejecuta el bloque solo en caso que la condicon false
+
+ciclos:
+
+    3.times do |i| -> 0
+    x.times
+
+    for i in 1..10 -> segun el rango
+
+    while condicion
+      ..
+    end
+    until condicion
+
+metodos
+  * Bloque de codigo que se al llamarlo retorna un resultado ademas de hacer algo algo.
+
+  * se transforma como una intrucciones
+
+ Array :
+  Lista de valores 
+  array = [1,"x","k"]
+  leer , index , array[0]
+  modificar = array[0] = "a"
+  array = [a,"x","k"]
+  .delete
+  .push -> << >> array.push("nuevo elemento") - > array >> "nuevo elemento" 
+  .index(search) - > indice en especifico >>
+  .each 
+
+  .select {|x| condicion}
+  .reject {|x| condicion}
+  .map {|x| x.to_i}
+  .collect
+  .inject(0){|fila,acum| }
+  .join
+  .include?
+  Abrir un archivo -> Open(ruta)
+
+      .read ->lee todo el archivo
+      .readlines -> 
+
+      "hola soy".split ->string
+
+  File.write(ruta,string)
+  
+

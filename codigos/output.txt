@@ -1,0 +1,7 @@
+2-7|Andres Perez|2.38|59500.0|plan|bono
+2-9|Mario Lopez|2.0|50000.0 
+3-5|Ana Urbina|10.0|250000.0 
+10-k|Maria Boric|10.2|254999.99 
+11-0|Jose Irarrazaval|0|0.0 
+18-2|Isabel Pantoja|6.0|150000.0 
+30-6|Pedro Perez|0|0.0 
